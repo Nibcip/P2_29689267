@@ -1,0 +1,14 @@
+{
+  "name": "hola-mundo-servidor-node",
+  "version": "1.0.0",
+  "description": "este es mi primer servidor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nibci Pinto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
